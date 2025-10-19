@@ -83,3 +83,23 @@ Este projeto implementa uma **arquitetura serverless completa** na AWS para proc
 
 ---
 
+## 📸 Diagrama da Arquitetura
+
+![AWS Architecture Diagram](https://github.com/romariodomingos/aws-serverless-order-processor/blob/main/architecture.png?raw=true)
+
+---
+
+## 👨🏽‍💻 Autor
+
+**Romão Gando Domingos**  
+AWS Cloud Enthusiast ☁️ | Cloud | Finance Analytics | Computer Engineering Student | Project Management
+🔗 [LinkedIn](https://www.linkedin.com/in/rom%C3%A3o-domingos-948003217/)  
+
+---
+
+## 📜 Licença
+
+Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
+
+---
+
